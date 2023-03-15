@@ -1,0 +1,3 @@
+﻿using Raspredelenie;
+
+Main.MainMenu();
